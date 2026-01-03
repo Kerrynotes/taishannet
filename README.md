@@ -28,15 +28,16 @@
 
 ## 📺 流媒体与 AI 解锁测试 (Streaming & AI)
 
-区域|节点|YouTube Premium|Netflix|Disney+|Bilibili (港澳台)|Bahamut Anime|ChatGPT Web|Claude|Spotify|TikTok|Gemini|Prime Video|HBO Max
-Other|[境外用户专用]GPT01|❌ |❌ |❌ |❌ |❌ |❌ |❌ |❌ |❌ |❌ |❌ |❌ 
-United Kingdom|🇬🇧[UK]英国Coventry01-BBC优化|✅ |✅ |✅ |❌ |❌ |✅ |✅  (CF WAF)|✅ |✅ |✅ |✅ |✅ 
-Hong Kong|🇭🇰[HK]HongKong01-GPT优化|✅ |✅ |✅ |✅ |✅ |✅ |✅  (CF WAF)|✅ |✅ |✅ |✅ |✅ 
-Japan|🇯🇵[JP]Tokyo01|❌ 不 (Geo Block)|✅ |✅ |✅ |✅ |✅ |✅  (CF WAF)|✅ |✅ |✅ |✅ |✅ 
-Korea|🇰🇷[KR]韩国-Seoul|✅ |✅ |✅ |✅ |✅ |✅ |✅  (CF WAF)|✅ |✅ |✅ |✅ |✅ 
-Singapore|🇸🇬[SG]Singapore01|❌ (Geo Block)|✅ |✅ |✅ |✅ |✅ |✅  (CF WAF)|✅ |✅ |✅ |✅ |✅ 
-Taiwan|🇹🇼[TW]TaiPei01-GPT优化|❌ |❌ |❌ |✅ |✅ |❌ |✅  (CF WAF)|❌ |✅ |❌ |✅ |❌ 
-United States|🇺🇸[US]美国Los Angeles01-GPT优化|✅ |✅ |✅ |✅ |✅ |✅ |✅  (CF WAF)|✅ |✅ |✅ |✅ |✅ 
+| 区域 | 节点 | YouTube Premium | Netflix | Disney+ | Bilibili (港澳台) | Bahamut Anime | ChatGPT Web | Claude | Spotify | TikTok | Gemini | Prime Video | HBO Max |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Other | [境外用户专用]GPT01 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| United Kingdom | 🇬🇧[UK]英国Coventry01-BBC优化 | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ (CF WAF) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Hong Kong | 🇭🇰[HK]HongKong01-GPT优化 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ (CF WAF) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Japan | 🇯🇵[JP]Tokyo01 | ❌ (Geo Block) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ (CF WAF) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Korea | 🇰🇷[KR]韩国-Seoul | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ (CF WAF) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Singapore | 🇸🇬[SG]Singapore01 | ❌ (Geo Block) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ (CF WAF) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Taiwan | 🇹🇼[TW]TaiPei01-GPT优化 | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ✅ (CF WAF) | ❌ | ✅ | ❌ | ✅ | ❌ |
+| United States | 🇺🇸[US]美国Los Angeles01-GPT优化 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ (CF WAF) | ✅ | ✅ | ✅ | ✅ | ✅ | 
 
 ---
 
