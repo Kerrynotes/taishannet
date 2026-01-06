@@ -1,6 +1,6 @@
 # Taishan Net 泰山机场地址：2026
 
-> **一句话评价**：Taishan Net 泰山机场是一个性价比机场，TG群目前挺活跃，客服回复速度挺快的。有自研的客户端，适合科学上网新手用户。落地节点覆盖地区比较多。
+> **一句话评价**：Taishan Net 泰山机场是一个性价比机场，TG群目前挺活跃，客服回复速度挺快的。有自研的客户端，适合科学上网新手用户。落地节点覆盖地区比较多。公网中转，延迟较高。
 
 ---
 
@@ -26,18 +26,31 @@
 
 ---
 
-## 📺 流媒体与 AI 解锁测试 (Streaming & AI)
+### 流媒体解锁测试
 
-| 区域 | 节点 | YouTube Premium | Netflix | Disney+ | Bilibili (港澳台) | Bahamut Anime | ChatGPT Web | Claude | Spotify | TikTok | Gemini | Prime Video | HBO Max |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Other | [境外用户专用]GPT01 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| United Kingdom | 🇬🇧[UK]英国Coventry01-BBC优化 | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ (CF WAF) | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Hong Kong | 🇭🇰[HK]HongKong01-GPT优化 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ (CF WAF) | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Japan | 🇯🇵[JP]Tokyo01 | ❌ (Geo Block) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ (CF WAF) | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Korea | 🇰🇷[KR]韩国-Seoul | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ (CF WAF) | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Singapore | 🇸🇬[SG]Singapore01 | ❌ (Geo Block) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ (CF WAF) | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Taiwan | 🇹🇼[TW]TaiPei01-GPT优化 | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ✅ (CF WAF) | ❌ | ✅ | ❌ | ✅ | ❌ |
-| United States | 🇺🇸[US]美国Los Angeles01-GPT优化 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ (CF WAF) | ✅ | ✅ | ✅ | ✅ | ✅ | 
+| 节点名称 | Netflix | YouTube Premium | Disney+ | HBO Max | Prime Video | Bilibili (港澳台) |
+| :--- |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |
+| Other - 🇦🇷[AR]阿根廷-BuenosAires | ✅ 已解锁 (AR) | ✅ 支持 | ✅ 已解锁 (US) | ✅ 支持 | ✅ 已解锁 (US) | ✅ 支持 (港澳台) |
+| United Kingdom - 🇬🇧[UK]英国Coventry01-BBC优化 | ✅ 已解锁 (GB) | ✅ 支持 | ✅ 已解锁 (GB) | ✅ 支持 | ✅ 已解锁 (GB) | ❌ 不支持 (-10403) |
+| Hong Kong - 🇭🇰[HK]HongKong01-GPT优化 | ✅ 已解锁 (HK) | ✅ 支持 | ✅ 已解锁 (HK) | ✅ 支持 | ✅ 已解锁 (HK) | ✅ 支持 (港澳台) |
+| Japan - 🇯🇵[JP]Tokyo01 | ✅ 已解锁 (JP) | ❌ 不支持 | ✅ 已解锁 (JP) | ✅ 支持 | ✅ 已解锁 (JP) | ✅ 支持 (港澳台) |
+| Korea - 🇰🇷[KR]韩国-Seoul | ✅ 已解锁 (US) | ❌ 不支持 | ✅ 已解锁 (KR) | ✅ 支持 | ✅ 已解锁 (KR) | ✅ 支持 (港澳台) |
+| Singapore - 🇸🇬[SG]Singapore01 | ✅ 已解锁 (SG) | ❌ 不支持 | ✅ 已解锁 (SG) | ✅ 支持 | ✅ 已解锁 (SG) | ✅ 支持 (港澳台) |
+| Taiwan - 🇹🇼[TW]TaiPei01-GPT优化 | ✅ 已解锁 (HK)| ✅ 已解锁 (TW) | ✅ 已解锁 (TW) | ❌ 连接失败: ConnectionError | ✅ 已解锁 (TW) | ✅ 支持 (港澳台) |
+| United States - 🇺🇸[US]美国Los Angeles01-GPT优化 | ✅ 已解锁 (US) | ❌ 不支持 | ✅ 已解锁 (US) | ✅ 支持 | ✅ 已解锁 (US) | ✅ 支持 (港澳台) |
+
+### AI 工具解锁测试
+
+| 节点名称 | Gemini | ChatGPT | Claude | Grok |
+| :--- |  :---:  |  :---:  |  :---:  |  :---:  |
+| Other - 🇦🇷[AR]阿根廷-BuenosAires | ✅ 已解锁 (HKG) | ✅ 已解锁 (US) | ✅ 已解锁 (AR) | ✅ 支持 |
+| United Kingdom - 🇬🇧[UK]英国Coventry01-BBC优化 | ✅ 已解锁 (GB) | ✅ 已解锁 (GB) | ✅ 已解锁 (GB) | ✅ 支持 |
+| Hong Kong - 🇭🇰[HK]HongKong01-GPT优化 | ✅ 已解锁 (SGP) | ✅ 已解锁 (SG) | ✅ 已解锁 (US) | ✅ 支持 |
+| Japan - 🇯🇵[JP]Tokyo01 | ✅ 已解锁 (CHN) | ✅ 已解锁 (JP) | ✅ 已解锁 (JP) | ✅ 支持 |
+| Korea - 🇰🇷[KR]韩国-Seoul | ✅ 已解锁 (CHN) | ✅ 已解锁 (JP) | ✅ 已解锁 (KR) | ✅ 支持 |
+| Singapore - 🇸🇬[SG]Singapore01 | ✅ 已解锁 (CHN) | ✅ 已解锁 (SG) | ✅ 已解锁 (SG) | ✅ 支持 |
+| Taiwan - 🇹🇼[TW]TaiPei01-GPT优化 | ✅ 已解锁 (TW) | ❌ 连接失败: ConnectionError | ✅ 已解锁 (TW) | ✅ 支持 |
+| United States - 🇺🇸[US]美国Los Angeles01-GPT优化 | ✅ 已解锁 (CHN) | ✅ 已解锁 (US) | ✅ 已解锁 (US) | ✅ 支持 |
 
 ---
 
@@ -59,7 +72,7 @@
 ## 🚀 速度实测
 * **测试环境：** 1000M 联通带宽 / Windows / Clash Verge Rev / 湖南联通 1000M / 晚上10点40分
 * 节点抽样，香港、韩国、新加坡、日本的下载速度都跑满了带宽，美国跑了一半带宽。速度不错，延迟稍高。
-* ![taishannet-speed-test](img/taishannet-speed-test.avif)
+* * ![taishannet-speed-test](img/taishannet-speed-test.avif)
 <!-- * **视频表现：** 晚高峰 20:00 实测 YouTube 4K 拖动无缓冲，秒开。 -->
 
 
